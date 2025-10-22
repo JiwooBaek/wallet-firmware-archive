@@ -1,3 +1,6 @@
 [submodule "trezor-firmware"]
 	path = trezor-firmware
 	url = https://github.com/trezor/trezor-firmware.git
+[submodule "coldcard-firmware"]
+	path = coldcard-firmware
+	url = https://github.com/Coldcard/firmware.git
