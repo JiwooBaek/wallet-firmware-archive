@@ -25,3 +25,9 @@
 [submodule "passport2-firmware"]
 	path = passport2-firmware
 	url = https://github.com/Foundation-Devices/passport2.git
+[submodule "onekeyPro-firmware"]
+	path = onekeyPro-firmware
+	url = https://github.com/OneKeyHQ/firmware-pro.git
+[submodule "onekeyClassic1s-firmware"]
+	path = onekeyClassic1s-firmware
+	url = https://github.com/OneKeyHQ/firmware-classic1s.git
