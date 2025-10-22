@@ -7,3 +7,6 @@
 [submodule "cypherockX1-firmware"]
 	path = cypherockX1-firmware
 	url = https://github.com/Cypherock/x1_wallet_firmware.git
+[submodule "jade-firmware"]
+	path = jade-firmware
+	url = https://github.com/Blockstream/Jade.git
