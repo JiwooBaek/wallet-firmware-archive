@@ -22,3 +22,6 @@
 [submodule "bitbox02-firmware"]
 	path = bitbox02-firmware
 	url = https://github.com/BitBoxSwiss/bitbox02-firmware.git
+[submodule "passport2-firmware"]
+	path = passport2-firmware
+	url = https://github.com/Foundation-Devices/passport2.git
