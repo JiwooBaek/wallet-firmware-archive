@@ -4,3 +4,6 @@
 [submodule "coldcard-firmware"]
 	path = coldcard-firmware
 	url = https://github.com/Coldcard/firmware.git
+[submodule "cypherockX1-firmware"]
+	path = cypherockX1-firmware
+	url = https://github.com/Cypherock/x1_wallet_firmware.git
