@@ -19,3 +19,6 @@
 [submodule "onekey-firmware"]
 	path = onekey-firmware
 	url = https://github.com/OneKeyHQ/firmware.git
+[submodule "bitbox02-firmware"]
+	path = bitbox02-firmware
+	url = https://github.com/BitBoxSwiss/bitbox02-firmware.git
