@@ -10,3 +10,6 @@
 [submodule "jade-firmware"]
 	path = jade-firmware
 	url = https://github.com/Blockstream/Jade.git
+[submodule "keepkey-firmware"]
+	path = keepkey-firmware
+	url = https://github.com/keepkey/keepkey-firmware.git
